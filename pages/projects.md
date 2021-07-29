@@ -2,7 +2,9 @@
 
 #### 个人博客项目
 
-地址：https://blog.yinjiahui.cn
+地址：[博客](https://blog.yinjiahui.cn)
+
+
 
 该博客网站是本人独立进行后端开发的项目，实现了在线 Markdown 文章编辑、后台管理、前台文章展示、留言、搜索等功能。 后端使用 SpringBoot 搭建，使用 SpringSecurity 作为安全框架实现用户登录。 使用 Redis 缓存热点数据。采用 MySQL 进行数据存储。 使用 Elasticsearch 存储文档并构建倒排索引，实现文章搜索功能。
 
