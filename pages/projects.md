@@ -42,3 +42,8 @@ Web端及Android端使用JWT进行登录认真，并通过相同的接口进行�
 
 <center>    <img style="border-radius: 0.3125em; zoom:67%;  box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"     src="../files/voa_android.jpg">    <br>    <div style=" border-bottom: 1px solid #d9d9d9;    display: inline-block;        padding: 2px;">Android主页</div> </center>
 
+#### 智能相册
+
+这也是一个前后端分离的项目，所用到的技术栈和上面几个项目类似。这个项目接入了一些云平台的人脸识别、分类的功能，但由于时间的关系这个项目做的比较简陋。
+
+<video id="video" controls="" preload="none"> <source id="mp4" src="../files/photo.mp4" type="video/mp4"> </video>
